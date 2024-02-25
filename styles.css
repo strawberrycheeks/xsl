@@ -1,0 +1,15 @@
+* {
+  font-family: Menlo, Consolas, Courier New, monospace, serif;
+}
+
+.main {
+  margin: auto;
+  width: 66%;
+}
+
+.card {
+  border: 1px solid lightblue;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  padding: 0 25px;
+}
